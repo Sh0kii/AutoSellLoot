@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoSellItemsV3
+## Notes: Automatically sells Poor, Uncommon, Common, and Rare items to vendors. Profession and quest items are not sold.
+## SavedVariables: AutoSellItems
+## Author: Sh0kii
+## Version: 3.0
+
+AutoSellItems.lua
