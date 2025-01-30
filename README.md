@@ -11,4 +11,4 @@ How to use the feature to restrict/remove items being sold?
 
 The AddOn have buildin checkup if an item is already restricted from sell and prints out a message that the current item is being in restricted( for /asid) and if you want to remove an item from the restricted it prints item has been removed OR isn't in the restricted(for /removeid)
 
-Saves it Id's into SavedVariables system, so it will persist thru logouts.
+Saves ID's into SavedVariables system, so it will persist thru logouts.
